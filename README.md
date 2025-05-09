@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>BS Computer Science Student From UNLV | Striving to leave a positive Impact</strong>
+  <strong>BS Computer Science student at UNLV | Striving to leave a positive impact</strong>
 </p>
 
 <p align="center">
